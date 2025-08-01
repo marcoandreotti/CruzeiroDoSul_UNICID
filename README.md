@@ -64,7 +64,7 @@ Durante o desenvolvimento, foram aplicadas algumas boas práticas para garantir 
 ## 👨‍💻 Autor
 
 **Marco Andreotti**  
-💼 Desenvolvedor .NET Sênior | Apaixonado por arquitetura limpa e soluções financeiras  
-📍 Campinas, SP – 💻 Remoto  
-📬 [LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+💼 Desenvolvedor .NET Sênior | Apaixonado por arquitetura limpa
+📍 Jaguariúna, SP – 💻 Remoto  
+📬 [LinkedIn](https://www.linkedin.com/in/marco-antonio-andreotti-3a040119/) · [GitHub](https://github.com/marcoandreotti/CruzeiroDoSul_UNICID#)
 
