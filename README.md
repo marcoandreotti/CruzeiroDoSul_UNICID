@@ -39,9 +39,11 @@ Em breve, este espaço também contará com:
 
 ## 🤝 Conecte-se comigo
 
-Se quiser trocar ideias, colaborar ou acompanhar minha evolução, fique à vontade para me chamar!
+- 🔗 [GitHub](https://github.com/marcoandreotti/CruzeiroDoSul_UNICID?tab=readme-ov-file)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marco-antonio-andreotti-3a040119/)
 
 ---
+
 
 > _"Aprender é transformar o mundo a partir de dentro."_  
 > — Marco
