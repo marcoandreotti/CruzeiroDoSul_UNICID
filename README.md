@@ -7,6 +7,19 @@ Aqui você encontrará anotações, resumos, exercícios, projetos e reflexões 
 
 ---
 
+## 📚 Entregas - Disciplinas
+
+
+## Design Profissional - Turma_001:
+
+### Experiência Prática II – Planejamento de Carreira e Aprendizado Contínuo
+
+- Entrega Experiencia Pratica II
+-- [🌟 Relatório de Análise](./Entregas/Disciplina%20-%20Design%20Profissional%20-%20Turma_001/Entrega%20Pratica%20II/Relatorio%20Analise.md)  
+  Pesquisa de mercado em TI com foco em Desenvolvimento Web..
+
+---
+
 ## 📚 Módulos Complementares
 
 Além da parte técnica, o curso também propõe reflexões sobre o bem-estar e o papel do conhecimento na construção de uma vida mais significativa. Confira o conteúdo:
