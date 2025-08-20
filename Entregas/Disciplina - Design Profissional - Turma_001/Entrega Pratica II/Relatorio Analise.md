@@ -17,7 +17,7 @@
 
 **Faixa salarial média:**
 - Júnior → R$ 3.500 a 5.500  
-- Pleno → R$ 6.000 a 9.000
+- Pleno → R$ 6.000 a 10.000
 
 📈 **Tendências:** Cloud, DevOps e frameworks modernos estão em alta!
 
