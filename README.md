@@ -14,9 +14,15 @@ Aqui você encontrará anotações, resumos, exercícios, projetos e reflexões 
 
 ### Experiência Prática II – Planejamento de Carreira e Aprendizado Contínuo
 
-- Entrega Experiencia Pratica II
+- Entrega - Experiencia Pratica II
 -- [🌟 Relatório de Análise](./Entregas/Disciplina%20-%20Design%20Profissional%20-%20Turma_001/Entrega%20Pratica%20II/Relatorio%20Analise.md)  
   Pesquisa de mercado em TI com foco em Desenvolvimento Web..
+
+
+
+- Entrega – Experiência Prática III
+-- [🌟 Relatório de Análise](./Entregas/Disciplina%20-%20Design%20Profissional%20-%20Turma_001/Entrega%20Pratica%20III/Relatorio%20Analise.md)  
+  Analise dilema ético envolvendo Inteligência Artificial..
 
 ---
 
