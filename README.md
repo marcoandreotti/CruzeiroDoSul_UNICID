@@ -24,6 +24,13 @@ Aqui você encontrará anotações, resumos, exercícios, projetos e reflexões 
 -- [🌟 Relatório de Análise](./Entregas/Disciplina%20-%20Design%20Profissional%20-%20Turma_001/Entrega%20Pratica%20III/Relatorio%20Analise.md)  
   Analise dilema ético envolvendo Inteligência Artificial..
 
+
+
+- Entrega – Experiência Prática IV
+-- [🌟 Relatório de Análise](./Entregas/Disciplina%20-%20Design%20Profissional%20-%20Turma_001/Entrega%20Pratica%20IV/Relatorio%20Analise.md)  
+  Experiência Prática – Sustentabilidade, Inclusão e Impacto Social..
+
+
 ---
 
 ## 📚 Módulos Complementares
