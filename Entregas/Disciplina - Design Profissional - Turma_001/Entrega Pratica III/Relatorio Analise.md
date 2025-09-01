@@ -1,3 +1,5 @@
+![](./DilemaEticoEmIA.png)
+
 🎓 Realizei mais uma análise de um dilema ético envolvendo Inteligência Artificial, como parte das atividades do meu curso superior em Análise e Desenvolvimento de Sistemas.
 
 O caso escolhido foi o uso de reconhecimento facial, uma tecnologia cada vez mais presente em bancos, redes sociais e até na segurança pública. Embora útil, ela levanta sérias questões éticas:
